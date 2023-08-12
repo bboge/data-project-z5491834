@@ -1,0 +1,2 @@
+Output Area -> OutputArea
+Residence type: Total (TS001) -> Column2
